@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-01-02T05:16:50.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kaRd6EmduhpLDUCyqrfY" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-02T06:14:22.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ztJKdHEFbp_IF0Cg_nAx" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5405" dy="3993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10738" dy="4989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-86" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=auto;fontSize=33;gradientDirection=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2730" y="-550" width="2875" height="2710" as="geometry" />
+        </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-61" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=auto;fontSize=33;gradientDirection=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2170" y="-10" width="1930" height="1370" as="geometry" />
+          <mxGeometry x="-1310" y="1260" width="1930" height="2300" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1817" y="100" width="1237" height="960" as="geometry" />
         </mxCell>
         <mxCell id="dXCsXWzUOnE5lSZDAf7W-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="495" y="738" width="640" height="690" as="geometry" />
+          <mxGeometry x="700" y="318.37" width="640" height="690" as="geometry" />
         </mxCell>
         <mxCell id="dXCsXWzUOnE5lSZDAf7W-1" value="권한/인증&lt;br&gt;정보" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-30" y="190" width="80" height="70" as="geometry" />
@@ -171,43 +174,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-0" value="&lt;b style=&quot;font-size: 23px;&quot;&gt;자율주행 생태계&lt;br&gt;실증단지 조성&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="522" y="760" width="270" height="90" as="geometry" />
+          <mxGeometry x="727" y="340.37" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;IoT 생태계&lt;br&gt;실증단지 조성&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="835" y="760" width="270" height="90" as="geometry" />
+          <mxGeometry x="1040" y="340.37" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-2" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillStyle=auto;fontSize=21;fontColor=none;fillColor=default;rotation=-90;gradientColor=#CCCCCC;gradientDirection=east;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="765.63" y="705.63" width="98.75" height="410" as="geometry" />
+          <mxGeometry x="970.63" y="286" width="98.75" height="410" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;기술 개방성&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="522" y="956" width="178" height="80" as="geometry" />
+          <mxGeometry x="727" y="536.37" width="178" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;상호연결성&lt;br&gt;(Connectivity)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="522" y="1046" width="178" height="74" as="geometry" />
+          <mxGeometry x="727" y="626.37" width="178" height="74" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;확장성&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="522" y="1130" width="178" height="89" as="geometry" />
+          <mxGeometry x="727" y="710.37" width="178" height="89" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;연구환경 지원&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="522" y="1230" width="178" height="97" as="geometry" />
+          <mxGeometry x="727" y="810.37" width="178" height="97" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;유지보수성&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="522" y="1340" width="178" height="60" as="geometry" />
+          <mxGeometry x="727" y="920.37" width="178" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-10" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; ○&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt; 단위 서비스간의 상호 정보 교환&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;&amp;nbsp; ○ &lt;/span&gt;&lt;span style=&quot;font-weight: 400; font-size: 20px;&quot;&gt;다양한 기술적 접근 채널 제공&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFFFFF;fontStyle=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="956" width="400" height="80" as="geometry" />
+          <mxGeometry x="915" y="536.37" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-11" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; ○&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;자율주행차 + IoT 인프라 + 관제시스템&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px; font-weight: 400;&quot;&gt;&amp;nbsp; ○ &lt;/span&gt;&lt;span style=&quot;font-weight: 400; font-size: 20px;&quot;&gt;자율주행차량의 주행환경 정보 제공&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFFFFF;fontStyle=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="1046" width="400" height="74" as="geometry" />
+          <mxGeometry x="915" y="626.37" width="400" height="74" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; ○&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;데이터 표준화를 통한 확장성 확보&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp; ○ &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;다양한 IoT 자원의 통합적 관리&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;○ &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;표준 인터페이스를 통한 연계 확장성 확보&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFFFFF;fontStyle=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="1130" width="400" height="90" as="geometry" />
+          <mxGeometry x="915" y="710.37" width="400" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-14" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; ○&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&amp;nbsp;표준화 플랫폼 도입으로 유지보수 용이&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFFFFF;fontStyle=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="1340" width="400" height="60" as="geometry" />
+          <mxGeometry x="915" y="920.37" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; ○&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;다양한 IoT 디바이스 테스트 환경 지원&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp; ○ 테스트 현황 관제 환경 지원&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;○ 자율주행차량 테스트에 필요한 환경 지원&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFFFFF;fontStyle=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="1230" width="400" height="97" as="geometry" />
+          <mxGeometry x="915" y="810.37" width="400" height="97" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-19" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;자율주행&lt;br&gt;&lt;br&gt;관제&lt;br&gt;&lt;br&gt;플랫폼&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=default;fontSize=20;fontColor=default;fillColor=#A9C4EB;gradientColor=none;gradientDirection=east;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1300" y="230" width="270" height="470" as="geometry" />
@@ -351,10 +354,46 @@
           <mxGeometry x="-1817" y="1060" width="1237" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-62" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillStyle=auto;fontSize=21;fontColor=none;fillColor=default;rotation=-90;gradientColor=#CCCCCC;gradientDirection=east;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65.625" y="2289.995" width="98.75" height="410" as="geometry" />
+          <mxGeometry x="-450" y="2310" width="180.64" height="749.99" as="geometry" />
         </mxCell>
-        <mxCell id="ivhpfwpFvVWBJYwfZajC-63" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillStyle=auto;fontSize=21;fontColor=none;fillColor=default;rotation=90;gradientColor=#CCCCCC;gradientDirection=east;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50.004999999999995" y="2079.995" width="98.75" height="410" as="geometry" />
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-64" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillStyle=auto;fontSize=21;fontColor=none;fillColor=default;rotation=90;gradientColor=#CCCCCC;gradientDirection=east;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-450" y="1670" width="180.64" height="749.99" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-65" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;연구지원 개인화 관제&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=#000000;fontSize=33;fillColor=#0066CC;gradientDirection=south;gradientColor=#D4E1F5;shadow=0;glass=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="2170" width="900" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-67" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;자율주행 / IoT 시설물 통합관제&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=auto;strokeColor=#000000;fontSize=33;fillColor=#0066CC;gradientDirection=south;gradientColor=#D4E1F5;shadow=0;glass=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="2380" width="900" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-68" value="&lt;b&gt;GIS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;strokeColor=default;fontSize=60;fontColor=default;fillColor=#0066CC;gradientColor=#D4E1F5;gradientDirection=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="134" y="2170" width="216" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-69" value="&lt;b&gt;빅데&lt;br&gt;이터&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;strokeColor=default;fontSize=60;fontColor=default;fillColor=#0066CC;gradientColor=#D4E1F5;gradientDirection=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1030" y="2170" width="216" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-70" value="&lt;b style=&quot;font-size: 52px;&quot;&gt;외부 기업&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;fontSize=52;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1160" y="1418" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-74" value="&lt;b&gt;연구지원 신청자&lt;br&gt;(자율주행 자동차/IoT 센서)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=52;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-190" y="1348" width="650" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-75" value="&lt;ul style=&quot;font-size: 38px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;시스템 자원 클라우드 제공&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;플랫폼 연동에 따른 제품 상용화 용이&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;최적화된 플랫폼 연동&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;fontSize=52;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1227" y="1761" width="707" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-76" value="&lt;ul style=&quot;font-size: 38px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;자율주행 자동차 / IoT센서 테스트&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;개인화 자동차 / IoT 센서 관제&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;fontSize=52;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-200" y="1761" width="707" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-78" value="&lt;b style=&quot;font-size: 52px;&quot;&gt;자율주행차 연구소&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;fontSize=52;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1160" y="2880" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-79" value="&lt;b style=&quot;font-size: 52px;&quot;&gt;통합관제센터 운영자&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;fontSize=52;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="2880" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-80" value="&lt;ul style=&quot;font-size: 38px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;자율주행차 연구 및 데이터 수집&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;자율주행차 Level 검증&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;fontSize=52;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1227" y="3310" width="707" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-81" value="&lt;ul style=&quot;font-size: 38px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;자율주행 셔틀/차량 모니터링&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;연구지원 신청(IoT/차량) 모니터링&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;IoT시설물 모니터링&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=1;fillStyle=auto;fontSize=52;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-160" y="3310" width="707" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
