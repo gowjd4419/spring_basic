@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-02T02:27:46.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_0HRrDLX6Q3AZuXgJJIe" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-02T02:30:03.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="StbQtORsBWMDHBNTj9GC" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1613" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,8 +173,20 @@
         <mxCell id="ivhpfwpFvVWBJYwfZajC-2" value="" style="triangle;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillStyle=auto;fontSize=21;fontColor=none;fillColor=default;rotation=-90;gradientColor=#CCCCCC;gradientDirection=east;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="761.25" y="701.25" width="107.5" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="ivhpfwpFvVWBJYwfZajC-5" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;기술 개방성&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="522" y="1010" width="208" height="90" as="geometry" />
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;기술 개방성&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="522" y="956" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;상호연결성&lt;br&gt;(Connectivity)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="522" y="1046" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;확장성&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="522" y="1136" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;연구환경 지원&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="522" y="1226" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ivhpfwpFvVWBJYwfZajC-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;유지보수성&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="522" y="1320" width="178" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
