@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T07:01:54.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="RdUP4OMILyGfv8VLxmI8" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T08:32:15.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-gnPmILOM59TFhQhFsaw" version="20.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="7128" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6851" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="-1817" y="100" width="1237" height="960" as="geometry" />
         </mxCell>
         <mxCell id="dXCsXWzUOnE5lSZDAf7W-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-90" y="30" width="640" height="690" as="geometry" />
+          <mxGeometry x="-40" y="30" width="640" height="690" as="geometry" />
         </mxCell>
         <mxCell id="dXCsXWzUOnE5lSZDAf7W-1" value="권한/인증&lt;br&gt;정보" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="22" y="190" width="80" height="70" as="geometry" />
@@ -69,26 +69,21 @@
         <mxCell id="dXCsXWzUOnE5lSZDAf7W-16" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="342" y="286" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dXCsXWzUOnE5lSZDAf7W-19" value="차량 헤딩(방향)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="359" width="110" height="30" as="geometry" />
+        <mxCell id="dXCsXWzUOnE5lSZDAf7W-19" value="자율주행시작" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="321.37" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dXCsXWzUOnE5lSZDAf7W-117" target="JHsoXekGntLmaK2EYn77-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="62.03448275862138" y="416.0000000000001" as="sourcePoint" />
+            <mxPoint x="140" y="336" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="62" y="336" />
+              <mxPoint x="130" y="336" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dXCsXWzUOnE5lSZDAf7W-117" value="차량 실시간&lt;br&gt;데이터정보" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="22" y="379" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JHsoXekGntLmaK2EYn77-1" value="차량 주행속도" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="399" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JHsoXekGntLmaK2EYn77-34" value="차량 좌표(위경도)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="439" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JHsoXekGntLmaK2EYn77-48" target="bBRU7EYLr2SC0H-cKGVA-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JHsoXekGntLmaK2EYn77-48" value="자율주행&amp;nbsp;&lt;br&gt;상용차 정보" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="24" y="553.63" width="80" height="70" as="geometry" />
+        <mxCell id="dXCsXWzUOnE5lSZDAf7W-117" value="V2X차량" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="22" y="412" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ivhpfwpFvVWBJYwfZajC-0" value="&lt;b style=&quot;font-size: 23px;&quot;&gt;자율주행 생태계&lt;br&gt;실증단지 조성&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#E6E6E6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="727" y="340.37" width="270" height="90" as="geometry" />
@@ -381,114 +376,84 @@
             <mxPoint x="-3" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-0" value="상용차 고도" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="479" width="110" height="30" as="geometry" />
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-58" value="시작" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="387" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-1" value="상용차 유형" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161" y="519" width="110" height="30" as="geometry" />
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-59" value="종료" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="387" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-2" value="조명상태" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161" y="560.0000000000001" width="110" height="30" as="geometry" />
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-61" value="운행 시작,종료 메세지" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="184.5" y="452" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-4" value="와이퍼상태" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161" y="600.3700000000001" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-5" value="주행차로" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161" y="639.0000000000001" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-6" value="차량 조회 및 &lt;br&gt;상태정보 요청" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="322" y="320" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-7" value="메인 레이아웃&lt;br&gt;상태 정보 표출" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="322" y="505.00000000000006" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-8" value="VMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="322" y="370.37" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dXCsXWzUOnE5lSZDAf7W-19" target="bBRU7EYLr2SC0H-cKGVA-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="131" y="409" as="sourcePoint" />
-            <mxPoint x="161" y="369" as="targetPoint" />
+            <mxPoint x="150" y="360" as="sourcePoint" />
+            <mxPoint x="200" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="378" y="351" as="sourcePoint" />
+            <mxPoint x="322.5" y="387" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="131" y="369" />
+              <mxPoint x="378" y="370" />
+              <mxPoint x="323" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-67" value="차량 상태정보" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="219.5" y="351.37" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-69" value="지자체" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="322" y="482" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-70" value="VMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="322" y="540.35" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="131" y="409" as="sourcePoint" />
-            <mxPoint x="161" y="454.0000000000001" as="targetPoint" />
+            <mxPoint x="322.5" y="437" as="sourcePoint" />
+            <mxPoint x="375" y="482" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="131" y="454" />
+              <mxPoint x="323" y="460" />
+              <mxPoint x="375" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="132" y="589" as="sourcePoint" />
-            <mxPoint x="162" y="494" as="targetPoint" />
+            <mxPoint x="378" y="350" as="sourcePoint" />
+            <mxPoint x="427.5" y="387" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="132" y="494" />
+              <mxPoint x="378" y="370" />
+              <mxPoint x="428" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bBRU7EYLr2SC0H-cKGVA-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="657" as="sourcePoint" />
-            <mxPoint x="270" y="372" as="targetPoint" />
+            <mxPoint x="425.5" y="437" as="sourcePoint" />
+            <mxPoint x="375" y="482" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="372" />
+              <mxPoint x="428" y="460" />
+              <mxPoint x="375" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-18" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-6" value="관제시스템" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="322" y="321.37" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="271" y="657.0000000000001" as="sourcePoint" />
-            <mxPoint x="290" y="657" as="targetPoint" />
+            <mxPoint x="376" y="512" as="sourcePoint" />
+            <mxPoint x="376" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="385.57" as="sourcePoint" />
-            <mxPoint x="322" y="385.57" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-78" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324.5" y="370" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bBRU7EYLr2SC0H-cKGVA-6" target="bBRU7EYLr2SC0H-cKGVA-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="470" as="sourcePoint" />
-            <mxPoint x="50" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="335" />
-              <mxPoint x="460" y="385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bBRU7EYLr2SC0H-cKGVA-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="292" y="485" as="sourcePoint" />
-            <mxPoint x="377" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-28" value="관제시스템" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="322" y="441" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-29" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="342" y="407" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-30" value="N" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="432" y="357" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="376" y="350" as="sourcePoint" />
-            <mxPoint x="376.0000000000009" y="371" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bBRU7EYLr2SC0H-cKGVA-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bBRU7EYLr2SC0H-cKGVA-28">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377.0000000000009" y="465.3699999999999" as="sourcePoint" />
-            <mxPoint x="377.0000000000009" y="505" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="bBRU7EYLr2SC0H-cKGVA-79" value="N" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="432" y="370" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
